@@ -7,6 +7,7 @@ Features:
 3. Bell timetable for each time period of the school
 4. Contact information for the instructor's mailbox in each department of the school
 5. Relevant website display for cooperation with school education
+
 ——————————————————————
 
 This is a personal application designed for students.
