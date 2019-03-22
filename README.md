@@ -8,4 +8,10 @@ Features:
 4. Contact information for the instructor's mailbox in each department of the school
 5. Relevant website display for cooperation with school education
 ——————————————————————
+
 This is a personal application designed for students.
+
+
+If you have any questions,Please contact me.
+
+Email: s2i0q3@yeah.net
